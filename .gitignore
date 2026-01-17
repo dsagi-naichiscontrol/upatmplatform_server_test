@@ -1,4 +1,5 @@
 # Firebase build and deployment files
+/node_modules
 /firebase-debug.log
 /firebase-debug.*.log
 .firebaserc
@@ -26,3 +27,4 @@ yarn-error.log*
 
 # Environment files (local configs)
 /.env.*
+
